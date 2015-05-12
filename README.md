@@ -65,7 +65,7 @@ To start the app in your local dev environment, use these commands:
 
 3. Install a http server of your choice, for example: `npm install http-server -g`
 
-4. Launch the http server with `http-server` which launches the app at (http://localhost:8080/)[http://localhost:8080/] by default.
+4. Launch the http server with `http-server` which launches the app at [http://localhost:8080/](http://localhost:8080/) by default.
 
 # About Ionic Material
 

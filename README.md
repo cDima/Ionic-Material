@@ -58,9 +58,13 @@ I devote as much time as I can, but my full-time position will always rank first
 # Dev quick start
 
 To start the app in your local dev environment, use these commands:
+
 1. Install all the needed components with npm: `npm install`
+
 2. Build the project with `gulp build`
+
 3. Install a http server of your choice, for example: `npm install http-server -g`
+
 4. Launch the http server with `http-server` which launches the app at http://localhost:8080/ by default.
 
 # About Ionic Material

@@ -55,6 +55,14 @@ http://ionicmaterial.com/
 
 I devote as much time as I can, but my full-time position will always rank first. This means community help is needed to guarantee the maturation of this project. You guys are awesome, and I am grateful for all the help/support. 
 
+# Dev quick start
+
+To start the app in your local dev environment, use these commands:
+1. Install all the needed components with npm: `npm install`
+2. Build the project with `gulp build`
+3. Install a http server of your choice, for example: `npm install http-server -g`
+4. Launch the http server with `http-server` which launches the app at http://localhost:8080/ by default.
+
 # About Ionic Material
 
 Ionic material is aimed at being an extension library for the Ionic Framework, meaning you won't change the way you develop your Ionic hybrid apps to have them materialized. Ionic Material aims to integrate the best representations of Material Design into a single add-on library for Ionic Developers. With the Polymer Project, ngMaterial, and other open source projects arising, we aim to be actively engaged and aligned with these, and other, related projects.
